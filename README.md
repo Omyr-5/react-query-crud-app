@@ -1,7 +1,7 @@
 # react-query-crud-app
 #React Js Web application
 
---Used Modules, Libraries, and Packages-- 
+-Used Modules, Libraries, and Packages-- 
 -React Router Dom v6
 -Axios
 -React Query 
